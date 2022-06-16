@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: b471323a02761b649a23ed7f4de52887
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -3048447952412721182
+    second: Cinema_4D_Prise Principale
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 839218e642015904b9b3252560329871, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Cinema_4D_Prise Principale' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Joint_9' has translation
+      animation that will be discarded.\n\t'Joint_6_3' has translation animation
+      that will be discarded.\n\t'Joint_5_3' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: "\nRetargeting quality report for clip 'Cinema_4D_Prise
+      Principale':\n\tLeftLowerLeg average position error 16.9 mm and maximum position
+      error 31.5 mm at time 0: 6 (0.6%) Frame 6\n\tLeftFoot average position error
+      16.4 mm and maximum position error 31.5 mm at time 4: 5 (10.6%) Frame 105\n\tRightLowerLeg
+      average position error 33.0 mm and maximum position error 103.4 mm at time
+      2: 9 (6.0%) Frame 59\n\tRightFoot average position error 16.5 mm and maximum
+      position error 31.4 mm at time 8:19 (21.9%) Frame 219\n\tLeftUpperArm average
+      position error 16.3 mm and maximum position error 31.2 mm at time 0: 6 (0.6%)
+      Frame 6\n\tLeftLowerArm average position error 17.2 mm and maximum position
+      error 31.2 mm at time 8:19 (21.9%) Frame 219\n\tLeftHand average position error
+      16.3 mm and maximum position error 31.2 mm at time 4: 5 (10.6%) Frame 105\n\tRightUpperArm
+      average position error 16.3 mm and maximum position error 31.2 mm at time 0:
+      6 (0.6%) Frame 6\n\tRightLowerArm average position error 17.5 mm and maximum
+      position error 31.2 mm at time 0: 6 (0.6%) Frame 6\n\tRightHand average position
+      error 16.3 mm and maximum position error 31.2 mm at time 4:18 (11.9%) Frame
+      118\n\tHead average position error 16.3 mm and maximum position error 31.2
+      mm at time 0: 6 (0.6%) Frame 6\n"
+    animationDoRetargetingWarnings: 1
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_8
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_5
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_2
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eye_left
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eye_right
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_3
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_4
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_2_2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_3_2
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_5_3
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_6_5
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_7_2
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_6_3
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_5_2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_6_4
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_7
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Joint_6
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: stickman(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boden
+      parentName: stickman(Clone)
+      position: {x: -0, y: -3.6014545, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Physikalischer_Himmel
+      parentName: stickman(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Objet_Neutre_Ciel
+      parentName: Physikalischer_Himmel
+      position: {x: 5.8370075, y: 1.8438295, z: 9.723597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lune
+      parentName: Objet_Neutre_Ciel
+      position: {x: -37.45856, y: 10.005729, z: -3.5341547}
+      rotation: {x: -0.08722652, y: -0.7333346, z: -0.095843576, w: 0.6674024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Lumi\xE8re_lunaire"
+      parentName: Lune
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -1.2266348e-18, z: -1.2266348e-18, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Objet_Soleil
+      parentName: Objet_Neutre_Ciel
+      position: {x: -96.452866, y: 584.4149, z: 1351.0944}
+      rotation: {x: -0.20212774, y: -0.034890033, z: -0.0072056544, w: 0.97871095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Lumi\xE8re_solaire"
+      parentName: Objet_Soleil
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Source_des_effets_de_lentille
+      parentName: Objet_Soleil
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plan_des_ombres
+      parentName: Physikalischer_Himmel
+      position: {x: -0, y: 100, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sky_Dome
+      parentName: Physikalischer_Himmel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Stickman
+      parentName: stickman(Clone)
+      position: {x: -0.005536631, y: 0.2501688, z: 0.06566738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh
+      parentName: Stickman
+      position: {x: 0.005536631, y: -0.2501688, z: -0.06566738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Stickman_2
+      parentName: Mesh
+      position: {x: -0.016609894, y: 1.6190803, z: 0.04582303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Stickman
+      position: {x: -0.18440689, y: 4.3412123, z: 0.13133475}
+      rotation: {x: 0.00834192, y: -0.7080083, z: -0.0050771977, w: 0.70613664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_5_3
+      parentName: Root
+      position: {x: 2.0872193e-16, y: -1.7598667, z: -0.20416318}
+      rotation: {x: -0.6004152, y: 9.490471e-10, z: -0.0000000061113115, w: 0.7996884}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Joint_6_5
+      parentName: Joint_5_3
+      position: {x: -7.105427e-17, y: 4.2632563e-16, z: -1.3110687}
+      rotation: {x: -0.021987498, y: -0.000000018676797, z: 0.0000000019715447, w: 0.99975824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_7_2
+      parentName: Joint_6_5
+      position: {x: -7.105427e-16, y: 4.6185276e-16, z: -1.3307909}
+      rotation: {x: -0, y: -0, z: -8.326673e-17, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: Joint_6_3
+      parentName: Root
+      position: {x: 2.1094237e-16, y: -1.7488624, z: -0.15944183}
+      rotation: {x: 0.0074035157, y: 0.00016978383, z: 0.0005168691, w: 0.99997246}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Joint_5_2
+      parentName: Joint_6_3
+      position: {x: 0.0000000048261177, y: -1.2104629, z: 0.3976322}
+      rotation: {x: 0.003281, y: 0.80395114, z: 0.59466976, w: 0.004435696}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Joint_6_4
+      parentName: Joint_5_2
+      position: {x: 1.2079227e-15, y: -2.6645353e-15, z: -1.3077804}
+      rotation: {x: 0.007402997, y: -0.00054391654, z: -0.000092746675, w: 0.99997246}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Joint_9
+      parentName: Root
+      position: {x: 2.1316282e-16, y: -1.7165632, z: -0.17611122}
+      rotation: {x: 2.7362273e-14, y: 0.7195054, z: 0.69448686, w: -2.8436153e-14}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Joint_8
+      parentName: Joint_9
+      position: {x: 0.018879281, y: 0.0012667645, z: 0.51507413}
+      rotation: {x: 4.1989371e-16, y: 0.010647517, z: 4.656416e-10, w: 0.9999434}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Joint_7
+      parentName: Joint_8
+      position: {x: -0.0058798543, y: 0.0076152217, z: 0.34043187}
+      rotation: {x: 0.0037162164, y: -0.017690724, z: -0.9998367, w: 0.00006575239}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000004}
+    - name: Joint_6
+      parentName: Joint_7
+      position: {x: 3.539391e-15, y: -0.008477664, z: 0.555287}
+      rotation: {x: 0.0076328963, y: 3.639115e-10, z: 1.8189891e-10, w: 0.9999709}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000001}
+    - name: Joint_1
+      parentName: Joint_6
+      position: {x: -0.00067409157, y: 0.26477617, z: 0.21092115}
+      rotation: {x: 0.6929499, y: 0.000000031271437, z: -0.000000052738912, w: 0.7209858}
+      scale: {x: 1.0000006, y: 0.99999994, z: 0.9999997}
+    - name: Joint_2_2
+      parentName: Joint_1
+      position: {x: -8.704149e-15, y: 0.00082968496, z: -1.0806645}
+      rotation: {x: 0.012192366, y: 0.0000000128312, z: 0.00000009342555, w: 0.99992573}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999997}
+    - name: Joint_3_2
+      parentName: Joint_2_2
+      position: {x: 7.105427e-17, y: 2.842171e-16, z: -1.1824452}
+      rotation: {x: -0, y: -8.881781e-16, z: -9.631181e-15, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Joint_2
+      parentName: Joint_6
+      position: {x: -0.0006977294, y: -0.2572475, z: 0.22522926}
+      rotation: {x: 0.0000000030069143, y: 0.71248347, z: 0.7016889, w: -0.000000013858685}
+      scale: {x: 1.0000007, y: 0.99999994, z: 1}
+    - name: Joint_3
+      parentName: Joint_2
+      position: {x: -2.3533175e-13, y: -0.0085068, z: -0.9952955}
+      rotation: {x: -4.2740274e-16, y: -0.0000000057211005, z: 0.000000046303906,
+        w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: Joint_4
+      parentName: Joint_3
+      position: {x: 1.0658141e-16, y: 2.1316282e-16, z: -1.1824452}
+      rotation: {x: 0.4178512, y: -0.7324065, z: 0.46554112, w: 0.2687985}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: sword
+      parentName: Joint_4
+      position: {x: -0.063567676, y: 0.3494274, z: 0.12810168}
+      rotation: {x: -0.6843345, y: 0.0086309705, z: -0.005966121, w: 0.7290927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_5
+      parentName: Joint_6
+      position: {x: 1.3145041e-15, y: -0.0003253202, z: 0.46201447}
+      rotation: {x: -8.5143403e-10, y: 0.999981, z: 0.0061755637, w: 6.7437067e-10}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: eye_left
+      parentName: Joint_5
+      position: {x: -0.6098589, y: 0.3249987, z: -0.5981219}
+      rotation: {x: 0.24716817, y: 0.9688743, z: 0.013379689, w: -0.003413274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_right
+      parentName: Joint_5
+      position: {x: -0.53339684, y: -0.38053507, z: -0.61761177}
+      rotation: {x: 0.9354251, y: 0.35325512, z: 0.004878284, w: -0.012917773}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_6_2
+      parentName: Joint_5
+      position: {x: -2.3980816e-16, y: 3.4194868e-16, z: -1.3828553}
+      rotation: {x: -4.6566118e-10, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: "\xC9diteur_Cinema_4D"
+      parentName: stickman(Clone)
+      position: {x: 5.8370075, y: 1.8438295, z: 9.723597}
+      rotation: {x: 0.031236002, y: -0.9534893, z: 0.106235474, w: 0.28035077}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
